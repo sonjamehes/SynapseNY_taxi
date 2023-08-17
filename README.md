@@ -13,7 +13,7 @@ Currently the course teaches the following
 - Azure Data Lake Storage Gen2 integration with Azure Synapse Analytics
 - Project using NYC Taxi Trips data using the above technologies
 
-So we need to provide the ability to perform exploration of the raw data. We want to make it easier for the Data Analyst to explore this data. So instead of providing the raw files as
+we need to provide the ability to perform exploration of the raw data. We want to make it easier for the Data Analyst to explore this data. So instead of providing the raw files as
 they are, we should apply the schema to the data so that it's easier to understand the data and gain business value from it. To support the Business Analysts who are already familiar 
 with the Microsoft T-SQL language, we should offer the capability to perform Data Discovery using T-SQL. And finally, the business doesn't want to pay for any dedicated resources at 
 this stage of the project. They want us to offer the ability to query this data using pay-per-query model via the serverless infrastructure, and then they may decide to use dedicated
